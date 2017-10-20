@@ -1,0 +1,16 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository" : "https://github.com/r-a303931/notifybot.git",
+  "author": "Andrew Rioux",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
